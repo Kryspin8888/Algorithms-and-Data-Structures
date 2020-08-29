@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484685442 source:c:\users\krzyœ\desktop\algorytmy lab 6\zad 6.2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

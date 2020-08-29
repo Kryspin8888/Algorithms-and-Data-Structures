@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480200495 source:c:\users\krzyœ\desktop\algorytmy lab 4\lab4 zad2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+

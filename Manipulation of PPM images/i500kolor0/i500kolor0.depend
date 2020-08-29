@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1475784444 source:d:\studia\algorytmy i struktury danych\alg i struk lab1 zad\i500kolor0\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+

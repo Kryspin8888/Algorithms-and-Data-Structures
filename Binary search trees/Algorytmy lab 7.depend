@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485567848 source:c:\users\krzyœ\desktop\algorytmy lab 7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+
+1485771080 source:d:\studia\algorytmy i struktury danych\algorytmy lab 7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476196131 source:c:\users\krzyœ\desktop\i500obrot\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+

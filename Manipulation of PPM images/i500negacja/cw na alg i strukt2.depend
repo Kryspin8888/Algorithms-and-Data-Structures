@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1475783284 source:c:\users\krzyœ\desktop\cw na alg i strukt2\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+

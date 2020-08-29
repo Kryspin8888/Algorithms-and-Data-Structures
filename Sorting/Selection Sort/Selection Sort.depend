@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478733644 source:c:\users\krzyœ\desktop\algorytmy zad lab 2\selection sort\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<cstdlib>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1480377267 source:c:\users\krzyœ\desktop\algorytmy lab 5\lab5 zad1\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<cstdlib>
+

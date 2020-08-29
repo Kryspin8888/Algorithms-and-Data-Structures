@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476989665 source:c:\users\krzyœ\desktop\algorytmy zadanie 2\zad 2.2\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+

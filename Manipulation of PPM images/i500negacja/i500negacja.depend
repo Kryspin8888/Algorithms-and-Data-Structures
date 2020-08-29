@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1475784497 source:c:\users\krzyœ\desktop\i500negacja\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+
+1475784497 source:d:\studia\algorytmy i struktury danych\alg i struk lab1 zad\i500negacja\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+

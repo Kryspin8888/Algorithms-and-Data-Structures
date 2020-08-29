@@ -1,0 +1,85 @@
+PESYMISTYCZNIE: dodanie, szukanie, usuwanie O(h), gdzie h- wysokoœæ drzewa, w najgorszym wypadku h=N
+ŒREDNIO: dodanie O(log h), szukanie O(log h), usuwanie O(1)
+
+ N= 100    	 N= 10 000    	 N= 1 000 000    	 N= 100 000 000    
+			
+dodanie  -6     	dodanie  -6     	dodanie  -13     	dodanie  -8     
+szukanie -3	szukanie -27	szukanie -16	szukanie -18
+usuwanie -1     	usuwanie -1     	usuwanie -2    	usuwanie -2     
+			
+dodanie  -6   	dodanie  -9   	dodanie  -18 	dodanie  -9   
+szukanie -9	szukanie -17	szukanie -19	szukanie -24
+usuwanie -1    	usuwanie -1    	usuwanie -2   	usuwanie -1    
+			
+dodanie  -3   	dodanie  -13  	dodanie  -17   	dodanie  -8   
+szukanie -11	szukanie -20	szukanie -20	szukanie -12
+usuwanie -1  	usuwanie -1  	usuwanie -2  	usuwanie -1  
+			
+dodanie  -5  	dodanie  -10   	dodanie  -14   	dodanie  -13   
+szukanie -7	szukanie -13	szukanie -22	szukanie -25
+usuwanie -1 	usuwanie -1 	usuwanie -1 	usuwanie -1 
+			
+dodanie  -7  	dodanie  -14 	dodanie  -15  	dodanie  -7  
+szukanie -8	szukanie -19	szukanie -13	szukanie -17
+usuwanie -1	usuwanie -2	usuwanie -1	usuwanie -1
+			
+dodanie  -6  	dodanie  -6  	dodanie  -9  	dodanie  -9  
+szukanie -5	szukanie -12	szukanie -13	szukanie -25
+usuwanie -1	usuwanie -1	usuwanie -1	usuwanie -1
+			
+dodanie  - 6  	dodanie  - 11  	dodanie  - 11  	dodanie  - 8  
+szukanie -9	szukanie -17	szukanie -20	szukanie -22
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 2
+			
+dodanie  - 10  	dodanie  - 18  	dodanie  - 15  	dodanie  - 14  
+szukanie -4	szukanie -19	szukanie -10	szukanie -18
+usuwanie - 1	usuwanie - 2	usuwanie - 2	usuwanie - 1
+			
+dodanie  - 8  	dodanie  - 19  	dodanie  - 12	dodanie  - 14  
+szukanie -7	szukanie -15	szukanie -18	szukanie -20
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 1
+			
+dodanie  - 4  	dodanie  - 12  	dodanie  - 19  	dodanie  - 11  
+szukanie -5	szukanie -19	szukanie -11	szukanie -24
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 1
+			
+dodanie  - 4  	dodanie  - 6  	dodanie  - 14  	dodanie  - 14  
+szukanie -8	szukanie -17	szukanie -10	szukanie -10
+usuwanie - 1	usuwanie - 1	usuwanie - 16	usuwanie - 1
+			
+dodanie  - 5  	dodanie  - 10 	dodanie  - 16  	dodanie  - 8  
+szukanie -9	szukanie -20	szukanie -21	szukanie -19
+usuwanie - 1	usuwanie - 2	usuwanie - 2	usuwanie - 2
+			
+dodanie  - 7  	dodanie  - 15 	dodanie  - 21  	dodanie  - 9  
+szukanie -4	szukanie -15	szukanie -18	szukanie -20
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 1
+			
+dodanie  - 7  	dodanie  - 17  	dodanie  - 16  	dodanie  - 17  
+szukanie -5	szukanie -18	szukanie -14	szukanie -12
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 1
+			
+dodanie  - 5	dodanie  - 11	dodanie  - 19	dodanie  - 7
+szukanie -6	szukanie -16	szukanie -17	szukanie -22
+usuwanie -1	usuwanie -1	usuwanie -1	usuwanie -1
+			
+dodanie  -4   	dodanie  -14   	dodanie  -15   	dodanie  -11   
+szukanie -6	szukanie -14	szukanie -13	szukanie -20
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 1
+			
+dodanie  -9   	dodanie  -8   	dodanie  -15   	dodanie  -8   
+szukanie -8	szukanie -19	szukanie -19	szukanie -15
+usuwanie - 1	usuwanie - 1	usuwanie - 2	usuwanie - 1
+			
+dodanie  -8	   	dodanie  -9	   	dodanie  -17	   	dodanie  -10	   
+szukanie -10	szukanie -21	szukanie -10	szukanie -20
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 1
+			
+dodanie  - 6  	dodanie  - 7 	dodanie  - 14  	dodanie  - 8  
+szukanie - 4	szukanie - 18	szukanie - 17	szukanie - 17
+usuwanie - 1	usuwanie - 1	usuwanie - 1	usuwanie - 1
+			
+dodanie  - 7  	dodanie  - 13  	dodanie  - 11  	dodanie  - 10  
+szukanie -7	szukanie -15	szukanie -14	szukanie -11
+usuwanie -1                          	usuwanie -2                          	usuwanie -1                          	usuwanie -1                          
+
